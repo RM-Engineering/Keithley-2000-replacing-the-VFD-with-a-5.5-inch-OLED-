@@ -68,6 +68,9 @@ Note: The jumper JP1 should not be set. Here the character set can be switched t
  
  
 # 3. Mechanical
+
+The mechanical difference between the original VFD and the OLED is the position of the display. It can no longer be placed on the front board PCB but has to be positioned as close as possible to the acrylic display cover. Further the 5.5 inch OLED glass display does not fit into the existing space. Therefore some mechanical work has to be done. 
+
 The front element of the Keithley-2000 housing must be completely detached from the device and the original Front Circuit Board with the VFD and the rubber keyboard mat must be removed.
 
 To operate with an OLED, the acrylic display cover must be replaced. The original acrylic glass has a light transmission of about 40%, which is suitable for increasing the contrast of a VFD, but is not suitable for an OLED, which already offers a high contrast but does not have such high brightness.
