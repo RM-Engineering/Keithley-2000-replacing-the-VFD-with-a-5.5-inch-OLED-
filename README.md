@@ -77,7 +77,7 @@ To operate with an OLED, the acrylic display cover must be replaced. The origina
 
 The new display cover should be made of clear acrylic glass measuring 162mm x 42mm, with a thickness of 3.0mm (2.5mm would be ideal, but that's hardly available). In the manufacturing process, the cut edges should be polished. But be careful: acrylic glass processed in this way reacts sensitively to IPA, which can lead to disturbingly visible microcracks on the edges.
 
-In order to get the original acrylic glass out, some violence is required. The acrylic glass is attached to all support areas with double-sided adhesive tape. The use of hot air is not recommended, plastic parts are deformed too quickly, which can lead to irreparable damage. So you have to carefully try with heavy thumb pressure from the inside to the outside to first find a place where the bonding dissolves, then continue working from there without damaging the plastic front. Once the original disc has been removed, all adhesive residues must be removed from the front.
+In order to get the original acrylic glass out, some violence is required. The acrylic glass is attached to all support areas with double-sided adhesive tape. The use of hot air is not recommended, plastic parts are deformed too quickly, which can lead to irreparable damage. So you have to carefully try with heavy thumb pressure from the inside to the outside to first find a place where the bonding dissolves, then continue working from there without damaging the plastic front. Once the original glass has been removed, all adhesive residues must be removed from the front.
 
 
 ![image](https://user-images.githubusercontent.com/125270643/220699712-ef51d4bd-9ab1-40ff-a688-778b3223a1aa.png)
