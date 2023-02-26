@@ -133,6 +133,7 @@ The key mat can then be reinserted. To keep the OLED in its position, two electr
 ATTENTION:
 
 The following photos show the assembled PCB version 1.0.
+
 After that, the new circuit board can be installed in the front of the device. The FPC line is guided through the upper of the two slots (in the V1.0 layout – in version V1.1 there is only one slot). It should be noted here that the FPC line is exposed and cannot come into the action range of the keys. So pull the FPC line as far as possible and let the loop run on the back.
 
  
