@@ -6,7 +6,7 @@
 
 The aim of this conversion guide is to modify a DMM Keithley 2000 from the original display (VFD) to a 5.5 inch OLED.
 
-The 5.5 inch OLEDs are currently available in the color variants yellow or green only. The displays available in US and Europe are of equivalent quality to those available from china, it can be assumed that they all come from the same source anyway. Depending on the color requirements, costs and demands on the delivery time (and by not thinking about the possible customs fees for foreign deliveries), you can freely select your OLED display as log as it complies with the specification below.
+The 5.5 inch OLEDs are currently available in the color variants yellow or green only. The displays available in US and Europe are of equivalent quality to those available from china, it can be assumed that they all come from the same source anyway. Depending on the color requirements, costs and demands on the delivery time (and by not thinking about the possible customs fees for foreign deliveries), you can freely select your OLED display as long as it complies with the specification below.
 
 The new and function compatible PCB fits into the front of a Keithley 2000 without any changes. A μController evaluates the serial protocol for the measurement presentation on the OLED and also generates the codes when the keys are pressed.
 
