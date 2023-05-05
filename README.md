@@ -39,7 +39,7 @@ The OLED must be used in the "panel" version (glass only). There are also "modul
 
 •	Dimensions 146 x 45 x 2 mm (5.5 inch, W x H x D)
 
-•	PFC connector 30 pins, 0.5 mm pitch
+•	FPC connector 30 pins, 0.5 mm pitch
 
 The following OLEDs were successfully tested:
 1.	EA W256064-XGLG (yellow), Display Visions
