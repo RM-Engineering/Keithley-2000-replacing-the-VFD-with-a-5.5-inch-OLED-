@@ -113,7 +113,7 @@ The new acrylic glass pane must now have a back blackening. Here at least the ad
 
 ![image](https://user-images.githubusercontent.com/125270643/220700398-af9daf6d-76b8-4e22-8f3e-3f448650fd33.png)
 
-This is best done after masking with matt black spray paint. After the drying process, the disc can be glued into the front of the device with very thin transparent double-sided adhesive tape (3M mobile phone mounting tape). For this purpose, the adhesive tape is applied over the entire surface to the contact surfaces of the front of the device and any existing protrusions are separated.
+This is best done after masking with matt black spray paint. After the drying process, the glass can be glued into the front of the device with very thin transparent double-sided adhesive tape (3M mobile phone mounting tape). For this purpose, the adhesive tape is applied over the entire surface to the contact surfaces of the front of the device and any existing protrusions are separated.
 
 The acrylic glass can now be brought into place and pressed tightly, it looks like this:
 
